@@ -12,4 +12,5 @@ class List
         }
         myList.RemoveRange(index, 1);
         return myList;
+    }
 }

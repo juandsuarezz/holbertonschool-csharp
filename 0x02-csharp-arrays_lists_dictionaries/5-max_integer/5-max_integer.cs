@@ -15,7 +15,7 @@ class List
         {
             if (val > max)
             {
-                max = val
+                max = val;
             }
         }
         return max;
